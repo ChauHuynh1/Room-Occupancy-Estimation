@@ -1,0 +1,37 @@
+I.	Introduction:
+In this modern world, technology play an important role in making any objects to be smarter. In this project, our group will analysis a system called Room Occupancy Estimation. This system will create a standard for smart building in near future. This system will assist building managers or hotel managers to acknowledge number of rooms being used at the moment and number of rooms is currently empty. In order to acknowledge accupation of rooms, the system will focuse on analysing temperature of the room, CO2 in the room, brightness of the room and finally sound that can be record by sensor placed in the room. By using multiple sensors like temperature, lights, sound, CO2. With multiple devices being used in this system, IoT will be employed and most importantly, all these devices must be energy efficient and low cost. Therefore, these devices will need to be saving energy for less battery consuming.
+II Research Questions:
+A. Analyse correlations betweeen each parameters:
+    - correlation between S1_Temp and S2_Temp.
+    - correlation between S1_Temp and S3_Temp.
+    - correlation between S1_Temp and S4_Temp.
+    - correlation between S2_Temp and S3_Temp.
+    - correlation between S2_Temp and S4_Temp.
+    - correlation between S3_Temp and S4_Temp.
+    - correlation between S1_Light and S2_Light.
+    - correlation between S1_Light and S3_Light.
+    - correlation between S1_Light and S4_Light.
+    - correlation between S2_Light and S3_Light.
+    - correlation between S2_Light and S4_Light.
+    - correlation between S3_Light and S4_Light.
+    - correlation between S1_Sound and S2_Sound.
+    - correlation between S1_Sound and S3_Sound.
+    - correlation between S1_Sound and S4_Sound.
+    - correlation between S2_Sound and S3_Sound.
+    - correlation between S2_Sound and S4_Sound.
+    - correlation between S3_Sound and S4_Sound.
+    - correlation between S5_CO2 and S5_CO2_C
+B. Analyse empty room condition:
+    - what is the main factor that can be used and considered when the number of that factor pass a specefic number. 
+    - what factors that often high when the room is empty.
+    - what factors that often low when the room is empty. 
+    - what factors can be paired to verify the room is empty. 
+    - what factors can't be paired to verify the room is empty. 
+    - what are other factors (beside temperature, CO2, sound, light) can make changes of number when the room is empty.  
+C. Analyse occupy room condition: 
+    - what is the main factor that can be used and considered when the number of that factor pass a specefic number. 
+    - what factors that often high when the room is occupied.
+    - what factors that often low when the room is occupied. 
+    - what factors can be paired to verify the room is occupied. 
+    - what factors can't be paired to verify the room is occupied. 
+    - what are other factors (beside temperature, CO2, sound, light) can make changes of number when the room is empty.  
